@@ -1,0 +1,76 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+*.pyd
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+
+# .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+vendor/bundle/
+log/*
+tmp/
+*.rbc
+coverage/
+InstalledFiles
+node_modules/
+.yardoc
+_byebug_history
+
+# PHP
+vendor/
+
+# Go
+bin/
+vendor/
+
+# Rust
+target/
+
+# Swift
+.build/
+
+# General
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# macOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db

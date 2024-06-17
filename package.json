@@ -1,0 +1,12 @@
+{
+  "name": "signvision",
+  "version": "1.0.0",
+  "description": "This is a summer research project involving ASL to text conversion via machine learning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
